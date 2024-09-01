@@ -7,5 +7,5 @@ Proposal website to ask her yes or no.
   <li>when user click on "No", it will change to "Yes"</li>
   <li>There is no chance to say No 😂</li>
 </ul>
-<img src="2">
-<img src="3">
+<img src="2.png">
+<img src="3.png">
